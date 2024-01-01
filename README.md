@@ -1,2 +1,2 @@
 # Resume
-Projects that I put on my resume
+Coding projects that I put on my resume

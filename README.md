@@ -1,2 +1,2 @@
 # Resume
-Coding projects that I put on my resume
+Data Science & Data Analytics projects in RStudio and Jupyter Notebook
